@@ -1,0 +1,158 @@
+@font-face {
+  font-family: 'educate-icon';
+  src:
+    url('fonts/educate-icon.ttf?kufm5h') format('truetype'),
+    url('fonts/educate-icon.woff?kufm5h') format('woff'),
+    url('fonts/educate-icon.svg?kufm5h#educate-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.educate-icon {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'educate-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+@font-face {
+  font-family: "iconfont"; /* Project id 2483410 */
+  src: url('//at.alicdn.com/t/font_2483410_gr2me4xkkr5.eot?t=1620738203288'); /* IE9 */
+  src: url('//at.alicdn.com/t/font_2483410_gr2me4xkkr5.eot?t=1620738203288#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAUcAAsAAAAACogAAATNAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHFQGVgCDQAqHdIZkATYCJAMYCw4ABCAFhG0HWBskCcgOJfHAwABgIAFFPHzu/XZukpf9m7+lu3W10VyXraheFArF4FBoHIMyKAO2W/y7yqkrnwI6hWTXAVScFwEVQXZOjmJQRlaB5Zbl6Y8QX8D4a5/1/xwzXpfnt9lcMtr2RnsDCgwajoaR12EHdKAnrreIZ4UBys3vCDR7qhjONXUMg7BXguqGWLRgPKhb45VkFyBY2pUZRhiY6si1BeK/jvTRcAvAp7wq/kFeBOPZugzBiy4/aeyFy1/Qlzik+TXjsgba9qIgGmRsHY8z3o7630BlfgvSnIfTzgDNQJJ+0l+4L+Yvcf4eYLvqWn1G/mYs/JdHEjpFJioE+jGCOV/o+IliEYmftIjgJyefN5ixzpwhDhvcbXPd4p5ZELcA4jME5C0PSEJR1Xk6Pi0iNJ+LQFEzh1AWmakPexTS5w1/TF828il9/ognZ0aHUeEzQwzaef0ihUISrvcSG4q4vgtgGL9ZO+/RO0L05QDvV7Chh3lc5dgNV0pDwFKlC1ftX588GeldidkDfKuoYb7Hj7VHj/QnT7xPnw5jh6TCQrGJFGLCubY6jeiDKqpodrlmrsRYumE95Gtz9ZVUkHeVbwUETtMXacuxW9uNsb6Xorz7WNa3B4a3MQhL0OuGjYJmx14fPGzEntZMWr56jy9q5PAVu+hI5fSwXSAna2fU4ukdlLJ4wLBx5EgMPS3Au2/03HoeTZon1zqrqpy1Mh1JssXOKrmW7j10tl8NOHG/sb0jOjknObqjPYbL5WJaHEuOZQMcv94kFeM/mI7XBL5jvuDfLGL/pGtXvKG9CXsSXyXuSfDg7kTZXDxmXEHGuOG6/+0Pi3Deia3zM9rS09tGR5LMPLrsDnqUlUWPYEbQmDAcn+ezaJER6bQNKcyI4PwNBy0owVgOps7LJj6ICTSMnmNKmJvcTcZyOfiW8WbwCx83levmFnOjYm13bbs9sqMxEq6Jm2bs3sztCDcuNbYb1xhFakkuwbmnfdxU4zLtxRltD/kFJ5+sj8jfe+/ItsUxi9GP1bEpsYv/PD2+c/Vh/dznvVD4Jec+85qJxq9MtzB1Ft8y3c485u5qyx8a/amt7F9dKBdqRcrc9uwcNyZ2EIlIEwZLyWaYBdBvyu+RgM5czFdQLQD5g+GUPzh8o0DeAeiv5jWo6nv8Oj9W3BgzMbzibzBLA3y/nBtHpHDEJv99gC+jgSP/1q6AovcDFKkKHLXY3hjf+xXrJVXv3upTCU1Dj8Mz3mzLOA/W+1sY52tIRixCNrCEKJgt6AwdgWrgJDSbmm8emqVAojDAhoUIwpRDkEz4BtmU24iCeQ2dBb+hmgoEzc0w3XNoJSRcrxBBJb28dTov2WS3GLlUXLQOIfbJTkFpqnLuCKJ4pBSfm5XTLTUTN1G2cYFnij1PVUVeVGQX34ReRpxOmR9Q5H5iU7P6VHWgLDtbHPuhLJvsAuwsBSFQEb14VtPxJDYyNzGdrMK9vx+CsJvMSaDM9HXERyAUHtLyvFxZcgCIZr0b1PdYNntMYZdHpRLpIZFC5sJrwl7CGeZlvIHxXf0IG1WWvjWyA8pkk2EiVJ+1f6PrUZ6DJnhoDQOFKJoKoAKpIBh5IQnuPkEOzKVMx9yKx2WqxKMGqrLb3i8FWiVBthMAAAAA') format('woff2'),
+       url('//at.alicdn.com/t/font_2483410_gr2me4xkkr5.woff?t=1620738203288') format('woff'),
+       url('//at.alicdn.com/t/font_2483410_gr2me4xkkr5.ttf?t=1620738203288') format('truetype'),
+       url('//at.alicdn.com/t/font_2483410_gr2me4xkkr5.svg?t=1620738203288#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-jianhao:before {
+  content: "\e604";
+}
+
+.icon-jiahao:before {
+  content: "\e603";
+}
+
+.icon-icon-test:before {
+  content: "\e61b";
+}
+
+.icon-tongji:before {
+  content: "\e615";
+}
+
+.icon-biaoge:before {
+  content: "\e611";
+}
+
+.educate-danger:before {
+  content: "\e91b";
+}
+.educate-info:before {
+  content: "\e91c";
+}
+.educate-warning:before {
+  content: "\e91d";
+}
+.educate-star:before {
+  content: "\e919";
+}
+.educate-star-half:before {
+  content: "\e91a";
+}
+.educate-apps:before {
+  content: "\e900";
+}
+.educate-bell:before {
+  content: "\e901";
+}
+.educate-charts:before {
+  content: "\e902";
+}
+.educate-checked:before {
+  content: "\e903";
+}
+.educate-cloud:before {
+  content: "\e904";
+}
+.educate-comment:before {
+  content: "\e905";
+}
+.educate-course:before {
+  content: "\e906";
+}
+.educate-data-table:before {
+  content: "\e907";
+}
+.educate-department:before {
+  content: "\e908";
+}
+.educate-event:before {
+  content: "\e909";
+}
+.educate-form:before {
+  content: "\e90a";
+}
+.educate-home:before {
+  content: "\e90b";
+}
+.educate-interface:before {
+  content: "\e90c";
+}
+.educate-landing:before {
+  content: "\e90d";
+}
+.educate-library:before {
+  content: "\e90e";
+}
+.educate-menu:before {
+  content: "\e90f";
+}
+.educate-message:before {
+  content: "\e910";
+}
+.educate-miscellanous:before {
+  content: "\e911";
+}
+.educate-nav:before {
+  content: "\e912";
+}
+.educate-pages:before {
+  content: "\e913";
+}
+.educate-professor:before {
+  content: "\e914";
+}
+.educate-project:before {
+  content: "\e915";
+}
+.educate-search:before {
+  content: "\e916";
+}
+.educate-settings:before {
+  content: "\e917";
+}
+.educate-student:before {
+  content: "\e918";
+}
+.educate-price-tag:before {
+  content: "\e935";
+}
+.educate-price-tags:before {
+  content: "\e936";
+}
